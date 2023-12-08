@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T09:28:05.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.7" etag="CWpU1aacsNf6C4fWvEBe" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T09:55:11.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-VxKdepm7II9Cvk5Bar3" version="22.1.7" type="github">
   <diagram name="Page-1" id="1jBXNMuYuO4Jp9FJHTQq">
-    <mxGraphModel>
+    <mxGraphModel dx="1160" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GSw8OTz1grYgU09YJYgF-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="720" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="GSw8OTz1grYgU09YJYgF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="360" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="GSw8OTz1grYgU09YJYgF-2" value="ARM Production&lt;br&gt;Subscription" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="244" y="560" width="44" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="GSw8OTz1grYgU09YJYgF-5" value="New Client&lt;br&gt;Subscription" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="690" y="560" width="44" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="GSw8OTz1grYgU09YJYgF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GSw8OTz1grYgU09YJYgF-9" target="GSw8OTz1grYgU09YJYgF-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GSw8OTz1grYgU09YJYgF-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="GSw8OTz1grYgU09YJYgF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GSw8OTz1grYgU09YJYgF-9" target="GSw8OTz1grYgU09YJYgF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GSw8OTz1grYgU09YJYgF-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GSw8OTz1grYgU09YJYgF-6" value="System&lt;br&gt;Managed ID" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Managed_Identities.svg;" vertex="1" parent="1">
+          <mxGeometry x="520" y="339" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GSw8OTz1grYgU09YJYgF-8" value="Automation Account" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Automation_Accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="330" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="GSw8OTz1grYgU09YJYgF-10" value="Storage Account" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="500" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GSw8OTz1grYgU09YJYgF-13" value="Log Analytics&lt;br&gt;Workspace" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
+          <mxGeometry x="176" y="349" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="GSw8OTz1grYgU09YJYgF-7" value="Entra ID" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="70" height="64" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
